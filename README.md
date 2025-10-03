@@ -66,6 +66,12 @@ Jupyter Notebook → Analysis environment
 
 `jupyter notebook customer_segmentation.ipynb`
 
+**Run the Streamlit app:**
+
+This Command Launch my Python script as a web app in the browser
+
+`streamlit run app.py`
+
 ---
 
 ### **Create New virtual environment**
