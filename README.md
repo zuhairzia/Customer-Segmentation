@@ -52,47 +52,61 @@ Jupyter Notebook → Analysis environment
 **Model Saving** → Save trained KMeans model and Scaler using joblib.
 
 ## 🚀 How to Run
-Clone repository
+**Clone repository**
 
 `git clone https://github.com/your-username/Customer-Segmentation.git`
 
 `cd Customer-Segmentation`
 
-Install dependencies
+**Install dependencies**
 
 `pip install -r requirements.txt`
 
-Run Jupyter Notebook
+**Run Jupyter Notebook**
 
 `jupyter notebook customer_segmentation.ipynb`
 
+---
+
+### **Create New virtual environment**
+
+**🔹 Step 1: Open terminal (Command Prompt / PowerShell / Git Bash / VS Code Terminal)**
+
+**Navigate to your project folder:**
+
+`cd path\to\your\project`
+
+**🔹 Step 2: Create the virtual environment**
 
 
-**Create New virtual environment**
-
-🔹 Step 1: Open terminal (Command Prompt / PowerShell / Git Bash / VS Code Terminal)
-
-Navigate to your project folder:
-
-cd path\to\your\project
-
-🔹 Step 2: Create the virtual environment
-
-Run:
-
-python -m venv .venv
+`python -m venv .venv`
 
 
-python -m venv → creates a virtual environment
+`python -m venv → creates a virtual environment`
 
 .venv → the folder name (you can also name it env, but .venv is common for GitHub projects)
 
-🔹 Step 3: Activate the environment
-On Windows (CMD)
-.venv\Scripts\activate
+**🔹 Step 3: Activate the environment**
 
-On Windows (PowerShell)
-.venv\Scripts\Activate.ps1
+**On Windows (CMD)**
+
+
+`.venv\Scripts\activate`
+
+**On Windows (PowerShell)**
+
+`.venv\Scripts\Activate.ps1`
+
+**On Mac/Linux**
+
+`source .venv/bin/activate`
+
+**On Windows (PowerShell)**
+
+
+`.venv\Scripts\Activate.ps1`
+
+---
 
 ## 📊 Results
 
