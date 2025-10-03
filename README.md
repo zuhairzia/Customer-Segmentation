@@ -108,6 +108,10 @@ Jupyter Notebook → Analysis environment
 
 ---
 
+# 📸 Custumer Segmentation By PCA
+<img width="559" height="449" alt="image" src="https://github.com/user-attachments/assets/749898ba-3289-43e1-ab9c-bddbc8747750" />
+
+
 ## 📊 Results
 
 Customers were grouped into 6 clusters with different profiles:
