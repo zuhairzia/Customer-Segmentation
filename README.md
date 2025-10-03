@@ -114,19 +114,19 @@ Jupyter Notebook → Analysis environment
 
 ## 📊 Results
 
-Customers were grouped into 6 clusters with different profiles:
+**Customers were grouped into 6 clusters with different profiles:**
 
-Cluster 0: Younger, low spending, low income
+**Cluster 0:** Younger, low spending, low income
 
-Cluster 1: Middle-aged, high spending, high income
+**Cluster 1:** Middle-aged, high spending, high income
 
-Cluster 2: Older, average spending
+**Cluster 2:** Older, average spending
 
-Cluster 3: Younger, medium income, online shoppers
+**Cluster 3:** Younger, medium income, online shoppers
 
-Cluster 4: Families with higher store purchases
+**Cluster 4:** Families with higher store purchases
 
-Cluster 5: Low engagement & low acceptance of campaigns
+**Cluster 5:** Low engagement & low acceptance of campaigns
 
 PCA visualization shows clear separation of clusters.
 
@@ -138,8 +138,8 @@ Age Distribution, Income by Education, Campaign Acceptance by Marital Status
 
 ## 📧 Support
 
-For questions or collaborations, feel free to connect:
+**For questions or collaborations, feel free to connect:**
 
-📩 Email: zuhairzia1@gmail.com
+📩 **Email:** zuhairzia1@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/zuhairzia
+💼 **LinkedIn:** www.linkedin.com/in/zuhairzia
