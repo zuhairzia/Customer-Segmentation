@@ -112,11 +112,28 @@ This Command Launch my Python script as a web app in the browser
 
 `.venv\Scripts\Activate.ps1`
 
+🔹 Step 4: Install required libraries
+
+Run this inside your project:
+
+`pip install streamlit pandas scikit-learn joblib`
+
+🔹 5. Run your Streamlit app
+
+In the terminal (inside your project folder):
+
+`streamlit run segmentation.py`
+
 ---
 
 # 📸 Custumer Segmentation By PCA
 <img width="559" height="449" alt="image" src="https://github.com/user-attachments/assets/749898ba-3289-43e1-ab9c-bddbc8747750" />
 
+# 📸 Customer Segmentation Prediction
+
+<img width="1365" height="546" alt="Screenshot 2025-10-03 225749" src="https://github.com/user-attachments/assets/8d1621a5-e6a7-4872-bc00-a3c78a8eac10" />
+
+---
 
 ## 📊 Results
 
